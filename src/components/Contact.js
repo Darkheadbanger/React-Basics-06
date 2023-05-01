@@ -4,7 +4,7 @@ let props = {
   name: '',
   email: '',
   phone: '',
-  isDeletable: false,
+  isDeletable: true,
 };
 
 let Contacts = (props) => {
